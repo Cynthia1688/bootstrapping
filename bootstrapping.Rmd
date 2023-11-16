@@ -1,5 +1,5 @@
 ---
-title: "bootstrpping"
+title: "bootstrapping"
 author: "Yangyang Chen"
 date: "`r Sys.Date()`"
 output: github_document
